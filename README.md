@@ -19,7 +19,8 @@ This project provisions:
 
 ## 🧱 Project Structure
 
-d:\Suraj Texiio\D\Projects\terraform_azure\structure.jpg
+![structure-1](https://github.com/user-attachments/assets/d02fa687-c940-4a62-85f3-55d0883ce646)
+
 ---
 
 ## 📦 Prerequisites
